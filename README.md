@@ -1,4 +1,4 @@
-# PHUSE-EE-2024 Conference Presentation
+# PHUSE-EU-2024 Conference Presentation
 This repository contains the slides for my talk "Leveraging Data Science & Analytics to Optimize Clinical Trial Executio" at PHUSE EU 2024 on November 12, 2024 in Strasbourg, France.
 
 # Abstract
